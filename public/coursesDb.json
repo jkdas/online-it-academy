@@ -1,0 +1,82 @@
+[
+    {
+        "courseId": "cid101",
+        "courseName": "Modern Web Design",
+        "courseFee": 4000,
+        "duration": "01 Oct - 25 Nov 2021",
+        "totalHours": 30,
+        "courseImg": "https://i.ytimg.com/vi/Ps1nmW5GVQA/maxresdefault.jpg"
+    },
+    {
+        "courseId": "cid102",
+        "courseName": "Software Testing and Quality Assurance",
+        "courseFee": 20000,
+        "duration": "08 Oct - 13 Nov 2021",
+        "totalHours": 60,
+        "courseImg": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/08/Software-Quality-Assurance-Testing.jpg"
+    },
+    {
+        "courseId": "cid103",
+        "courseName": "Ethical Hacking and Cyber Security",
+        "courseFee": 10000,
+        "duration": "09 Oct - 18 Dec 2021",
+        "totalHours": 40,
+        "courseImg": "https://www.techaltum.com/img/ethical-hacking-training-in-noida.jpg"
+    },
+    {
+        "courseId": "cid104",
+        "courseName": "Modern JavaScript",
+        "courseFee": 20000,
+        "duration": "05 Oct - 30 Dec 2021",
+        "totalHours": 60,
+        "courseImg": "https://miro.medium.com/max/2000/1*3sH1XUV3N9-YV7K2ycd-nA.png"
+    },
+    {
+        "courseId": "cid105",
+        "courseName": "Fundamentals of Python",
+        "courseFee": 6000,
+        "duration": "16 Oct - 11 Dec 2021",
+        "totalHours": 50,
+        "courseImg": "https://i.morioh.com/2019/12/30/fce63a3ecf7e.jpg"
+    },
+    {
+        "courseId": "cid106",
+        "courseName": "Web Design and Development using Laravel & Vue",
+        "courseFee": 20000,
+        "duration": "16 Oct - 15 Jan 2022",
+        "totalHours": 90,
+        "courseImg": "https://miro.medium.com/max/640/1*m5oBrqMwPIdQk7blG8lrPQ.png"
+    },
+    {
+        "courseId": "cid107",
+        "courseName": "UI/UX Design",
+        "courseFee": 5500,
+        "duration": "16 Oct - 04 Dec 2021",
+        "totalHours": 40,
+        "courseImg": "https://www.zenesys.com/getattachment/Blog/General/March-2021/Top-10-UI-UX-Design-Trends-to-watch-in%C2%A02021/3D-Illustrations.jpg"
+    },
+    {
+        "courseId": "cid108",
+        "courseName": "Android App Development",
+        "courseFee": 10000,
+        "duration": "23 Oct - 31 Dec 2021",
+        "totalHours": 70,
+        "courseImg": "https://richestsoft.com/blog/wp-content/uploads/2019/02/Android-app-development.jpg"
+    },
+    {
+        "courseId": "cid109",
+        "courseName": "Graphic and Web UI Design",
+        "courseFee": 18000,
+        "duration": "23 Oct - 23 Dec 2021",
+        "totalHours": 72,
+        "courseImg": "https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2019/04/web_ui_concepts_4.jpg"
+    },
+    {
+        "courseId": "cid110",
+        "courseName": "Motion Graphics",
+        "courseFee": 10000,
+        "duration": "15 Oct - 14 Jan 2022",
+        "totalHours": 45,
+        "courseImg": "https://i.ytimg.com/vi/9bnOVV3EBC8/maxresdefault.jpg"
+    }
+]

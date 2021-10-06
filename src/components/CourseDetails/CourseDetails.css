@@ -1,0 +1,17 @@
+.course-img{
+    width: 400px;
+    height: 200px;
+    object-fit:cover;
+    margin: auto;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body{
+    overflow-x: hidden;
+}
