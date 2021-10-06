@@ -4,18 +4,18 @@ import { useParams } from 'react-router-dom';
 
 const Enroll = () => {
     const { id } = useParams();
-
+    // full course detail store data in useState
     const [courseDetails, setCourseDetails] = useState([]);
-
+    // Single course detail store data in useState
     const [singleCourseDetail, setSingleCourseDetail] = useState({});
 
-
+    // coursedetails data load from local json data file
     useEffect(() => {
         fetch('/courseDetailsDb.json')
             .then(res => res.json())
             .then(data => setCourseDetails(data))
     }, [])
-
+    // find course detail according to course id 
     useEffect(() => {
         const foundSingleCourseDetails = courseDetails?.find(course => course.courseId === id)
         setSingleCourseDetail(foundSingleCourseDetails);

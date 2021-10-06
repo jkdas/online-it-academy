@@ -4,8 +4,9 @@ import { Col, Row } from 'react-bootstrap';
 import "./Instructor.css"
 
 const Instructors = () => {
+    // store instructor detail 
     const [instrDetails, setInstrDetails] = useState([]);
-
+    // Insrtructor data load from coursedetails json file 
     useEffect(() => {
         fetch('/courseDetailsDb.json')
             .then(res => res.json())

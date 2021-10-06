@@ -6,7 +6,7 @@ Online IT Academyis an institution where empowering the community for an excelle
 
 ## Live Link
 
-
+https://online-it-academy-jkd.netlify.app/
  
 ## Key Features::
 

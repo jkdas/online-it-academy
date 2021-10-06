@@ -4,8 +4,9 @@ import { Link } from 'react-router-dom';
 import '../CourseDetails/CourseDetails.css';
 
 const CourseDetails = (props) => {
-
+    // Destructuring from courses
     const { courseId, courseName, courseFee, duration, totalHours, courseImg } = props.course;
+    //Dynamic route url 
     const url = `/course/${courseId}`;
     return (
         <Col>

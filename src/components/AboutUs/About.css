@@ -1,6 +1,8 @@
+/* website body horizontal scroll remove */
 body{
     overflow-x: hidden;
 }
+/* about image  */
 .about img{
     border-radius: 50%;
     width: 85%;
@@ -8,7 +10,7 @@ body{
     height: 200px;
     padding: 20px; 
 }
-
+/* about card  */
 .about-card{
     padding: 10px;
     transition: 0.6s;
@@ -16,7 +18,7 @@ body{
     background-color: rgb(251 253 243);
     box-shadow: 10px 10px 20px rgb(228, 243, 172);
 }
-
+/* about card hover  */
 .about-card:hover {
     box-shadow: 4px 4px 7px gray;
     border-radius: 10px;
